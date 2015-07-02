@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"permi",
+				"permission_id"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"Wordl",
+				"WordLengthMin"
+			],
+			[
+				"Wo",
+				"WordLengthMax"
+			],
+			[
+				"bir",
+				"Birthdate"
+			],
+			[
+				"NumWord",
+				"NumWordsErr"
+			],
+			[
+				"Yes",
+				"Yes"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env.example",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 388.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/myfirstrestapi/.env",
+		"/C/xampp/htdocs/myfirstrestapi/config/database.php",
+		"/C/xampp/htdocs/myfirstrestapi/public/index.php",
+		"/C/xampp/htdocs/myfirstrestapi/config/app.php",
+		"/C/xampp/htdocs/myfirstrestapi/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/myfirstrestapi/app/User.php",
+		"/C/xampp/htdocs/myfirstrestapi/public/.htaccess",
+		"/C/xampp/htdocs/CSCI-E-15-Fall2014-P1/index-order.php",
+		"/C/xampp/htdocs/CSCI-E-15-Fall2014-P1/macys-order.php",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/tweme.info",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/tweme.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp14091/public_html/drupal/sites/all/themes/tweme/tweme.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/tweme-custom.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/tweme-views.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/themes/discoteque/_tk-1.1/style.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp12526/public_html/drupal/sites/all/modules/bootstrap_carousel/styles/bootstrap_carousel.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp23396/public_html/drupal/sites/all/modules/bootstrap_carousel/scripts/bootstrap_carousel.js",
+		"/C/Users/mv01/AppData/Local/Temp/scp12123/public_html/drupal/sites/all/themes/tweme/libraries/bootstrap-extra/css/bootstrap-extra.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp55034/public_html/drupal/sites/all/themes/tweme/system.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp09437/public_html/drupal/sites/all/modules/bootstrap_carousel/theme/node--bootstrap_carousel.tpl.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp12134/public_html/drupal/sites/all/modules/bootstrap_carousel/bootstrap_carousel.info",
+		"/C/Users/mv01/AppData/Local/Temp/scp33463/public_html/drupal/modules/user/user-profile.tpl.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/templates/page.tpl.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp04247/public_html/drupal/modules/user/user.info",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay.tpl.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay.api.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay.module",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay-parent.js",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay.info",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay-parent.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/overlay/overlay.install",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Modules/entity/entity.test",
+		"/C/Users/mv01/AppData/Local/Temp/scp56519/public_html/drupal/sites/all/modules/logintoboggan/logintoboggan.module",
+		"/C/Users/mv01/AppData/Local/Temp/scp56711/public_html/drupal/sites/all/modules/logintoboggan/logintoboggan.js",
+		"/C/Users/mv01/AppData/Local/Temp/scp56671/public_html/drupal/sites/all/modules/logintoboggan/logintoboggan.info",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/themes/new_theme_directory/discoteque/functions.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/modules/user/user.api.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/drupal-7.36/drupal-7.36/index.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp04294/public_html/drupal/modules/user/user.api.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/templates/html.tpl.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp53815/public_html/drupal/sites/all/themes/tweme/tweme-views.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp45587/public_html/drupal/sites/all/themes/tweme/tweme.info",
+		"/C/Users/mv01/AppData/Local/Temp/scp12501/public_html/drupal/sites/all/themes/tweme/prettify.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp50299/public_html/drupal/sites/all/themes/tweme/templates/page.tpl.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp08267/public_html/drupal/sites/all/modules/views/theme/theme.inc",
+		"/C/Users/mv01/AppData/Local/Temp/scp11795/public_html/drupal/sites/all/modules/skinr/README.txt",
+		"/C/Users/mv01/AppData/Local/Temp/scp11219/public_html/drupal/sites/all/modules/skinr/skinr.api.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/theme-settings.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Drupal/Themes/tweme/template.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp49330/public_html/drupal/sites/all/themes/tweme/templates/block--featured.tpl.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp56459/public_html/drupal/sites/all/themes/tweme/logo.png",
+		"/C/Users/mv01/AppData/Local/Temp/scp12142/public_html/drupal/sites/all/themes/tweme/template.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp07674/public_html/drupal/sites/all/themes/tweme/template.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp07498/public_html/drupal/sites/all/themes/tweme/theme-settings.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp44599/public_html/drupal/sites/all/themes/tweme/tweme.info",
+		"/C/Users/mv01/AppData/Local/Temp/scp06651/public_html/drupal/sites/all/themes/tweme/README.txt",
+		"/C/Users/mv01/AppData/Local/Temp/scp43139/public_html/drupal/sites/README.txt",
+		"/C/Users/mv01/AppData/Local/Temp/scp10209/public_html/wordpress/wp-content/uploads/2015/03/beacondisco_logo_small_border-496x200.png",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/themes/discoteque/_tk-1.1/includes/css/bootstrap-wp.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp00507/public_html/drupal/sites/all/themes/README.txt",
+		"/C/Users/mv01/AppData/Local/Temp/scp01503/public_html/drupal/sites/all/themes/tweme/tweme.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/Plugins/twentythirteen.1.4/twentythirteen/header.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla2/templates/discoteque/css/custom.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla2/templates/discoteque/css/image-layout.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/Plugins/twentythirteen.1.4/twentythirteen/functions.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/Plugins/twentythirteen.1.4/twentythirteen/style.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp20311/public_html/wordpress/wp-content/themes/html5blank-stable/style.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp28231/public_html/wordpress/wp-content/themes/html5blank-stable/style.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp18118/public_html/wordpress/wp-content/themes/html5blank-stable/style.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp34634/public_html/wordpress/wp-content/themes/html5blank-stable/img/icons/search-icon.png",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/Plugins/bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/Wordpress/Plugins/html5blank-stable/html5blank-stable-modified/index.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/unused_css/nav-temp.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp25270/public_html/wordpress/wp-content/themes/html5blank-stable-bootstrap/style.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp26698/public_html/wordpress/wp-content/themes/html5blank-stable-bootstrap/functions.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp27847/public_html/wordpress/wp-content/themes/html5blank-stable-bootstrap/header.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp30402/public_html/wordpress/wp-content/themes/html5blank-stable-bootstrap/footer.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp33942/public_html/wordpress/wp-content/themes/html5blank-stable-bootstrap/index.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp49225/public_html/wordpress/wp-content/themes/index.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp48557/public_html/wordpress/wp-content/themes/html5blank-stable/functions.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp02044/public_html/wordpress/wp-content/themes/html5blank-stable/style.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/protostar/css/template.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/menus.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/image-layout.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/carousel-widgetkit-orig.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/bootstrap.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/index.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/templateDetails.xml",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/test.html",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/custom.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla2/configuration.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp05605/public_html/joomla4/htaccess.txt",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/images/pulsate-logo.png",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla2/mike_tmp/.htaccess",
+		"/C/Users/mv01/AppData/Local/Temp/scp43031/public_html/joomla2/htaccess.txt",
+		"/C/Users/mv01/AppData/Local/Temp/scp43684/public_html/joomla2/templates/index.html",
+		"/C/Users/mv01/AppData/Local/Temp/scp13530/public_html/joomla/plugins/user/profile/profile.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp41889/public_html/joomla/php_errorlog",
+		"/C/Users/mv01/AppData/Local/Temp/scp43163/public_html/joomla/logs/error.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/administrator/index.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp34970/public_html/joomla/administrator/php_errorlog",
+		"/C/Users/mv01/AppData/Local/Temp/scp34279/public_html/joomla/libraries/cms/application/site.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp02693/public_html/joomla/administrator/index.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/.htaccess",
+		"/C/Users/mv01/AppData/Local/Temp/scp44470/public_html/joomla/administrator/components/com_admin/admin.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp41868/public_html/joomla/htaccess.txt",
+		"/C/Users/mv01/AppData/Local/Temp/scp40014/public_html/joomla/plugins/authentication/cookie/cookie.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp39363/public_html/joomla/plugins/authentication/joomla/joomla.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp39171/public_html/joomla/plugins/authentication/joomla/joomla.xml",
+		"/C/Users/mv01/AppData/Local/Temp/scp38337/public_html/joomla/bin/keychain.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp38611/public_html/joomla/administrator/modules/mod_login/helper.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp37354/public_html/joomla/administrator/modules/mod_login/mod_login.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp37267/public_html/joomla/administrator/modules/mod_login/tmpl/default.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp36623/public_html/joomla/administrator/php_mail.log",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/old-templates/templateDetails.xml",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/carousel-widgetkit.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp14332/public_html/joomla/plugins/user/profile/profiles/profile.xml",
+		"/C/Users/mv01/AppData/Local/Temp/scp14335/public_html/joomla/plugins/user/profile/fields/tos.php",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/template/css/cw-orig.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp11664/public_html/joomla/templates/discoteque/css/custom.css",
+		"/C/Users/mv01/AppData/Local/Temp/scp07686/public_html/administrator/components/com_widgetkit/assets/css/site.css",
+		"/C/Users/mv01/Desktop/SchoolStuff_Harvard/DGMD-25/joomla/templates/protostar/index.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp14085/public_html/administrator/components/com_widgetkit/src/Widget/Widget.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp07873/public_html/administrator/components/com_widgetkit/widgetkit-app.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp04227/public_html/modules/mod_widgetkit/elements/widget.php",
+		"/C/Users/mv01/AppData/Local/Temp/scp06731/public_html/modules/mod_widgetkit/mod_widgetkit.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Drupal\\Themes\\tweme,C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Drupal\\",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Drupal\\Themes\\tweme,C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Drupal\\drupal-7.36\\drupal-7.36",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Drupal\\Themes\\tweme",
+			"C:\\Users\\mv01\\AppData\\Local\\Temp\\scp12123\\public_html\\drupal\\sites\\all\\themes\\tweme\\*.*",
+			"C:\\Users\\mv01\\AppData\\Local\\Temp\\scp12123\\public_html\\drupal\\sites\\all\\themes\\tweme",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Wordpress\\",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Wordpress\\themes\\new_theme_directory\\discoteque",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\joomla2\\templates\\discoteque",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Wordpress\\Plugins\\twentythirteen.1.4\\twentythirteen",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Wordpress\\Plugins\\html5blank-stable\\html5blank-stable-bs",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\Wordpress\\Plugins\\twentythirteen.1.4\\twentythirteen",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\joomla2",
+			"C:\\Users\\mv01\\Desktop\\SchoolStuff_Harvard\\DGMD-25\\joomla\\templates\\template",
+			"C:\\xampp\\htdocs\\CSCI-E-15-Fall2014-P4",
+			"C:\\xampp\\htdocs\\CSCI-E-15-Fall2014-P3",
+			"C:\\xampp\\htdocs\\CSCI-E-15-Fall2014-P4",
+			"C:\\xampp\\htdocs\\CSCI-E-15-Fall2014-P3"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"i have attached",
+			"shipping",
+			"danielle vartanian",
+			"116-",
+			"4,599.00",
+			"3,495",
+			"May 24",
+			"May 28",
+			"$10.99",
+			"alignleft",
+			"hello",
+			"<head profile=\"http://",
+			"<body class=\"html front logged-in",
+			"hello",
+			"navbar_menu",
+			"$navbar_menu",
+			".menu",
+			"leaf",
+			"zone",
+			"#fff",
+			"#ffffff",
+			"whitesmoke",
+			"container",
+			"max_width",
+			"$max_width",
+			"container",
+			"map",
+			"well-team",
+			"admin",
+			"is_admin",
+			"well-team",
+			"twentythirteen",
+			"main-navigation",
+			"html5blank_nav",
+			"nav",
+			"navigation",
+			"twentythirteen_paging_nav",
+			".nav",
+			"sidebar",
+			"administrator",
+			"SqueezeBox",
+			"bd-img-size-md",
+			"form-horizontal",
+			"form-horizontal.well",
+			"fieldset",
+			"color: #000;",
+			"#000",
+			"nav-child",
+			"hover",
+			"uk-overlay",
+			"uk-overlay-slide-top",
+			"uk-overlay-top",
+			"uk-overlay-panel",
+			"uk-slideshow",
+			"uk-overlay-active",
+			">li",
+			"li",
+			".uk-overlay-slide-top",
+			".uk-overlay-top",
+			" .uk-overlay-top",
+			".uk-overlay-panel",
+			".uk-overlay-panel .uk-overlay-top .uk-overlay-slide-top",
+			".uk-overlay-panel.uk-overlay-top.uk-overlay-slide-top",
+			"100p",
+			"height",
+			"uk-slideshow",
+			"width",
+			"uk-overlay-panel",
+			"uk-overlay-slide-top",
+			"uk-overlay-top",
+			"uk-overlay-slide-bottom",
+			"uk-overlay-top",
+			"uk-margin",
+			"uk-icon",
+			"font-size",
+			"uk-margin",
+			".navigation",
+			"user-login",
+			"fontawesome",
+			"fa-users",
+			"comment",
+			"Comment",
+			"v",
+			"logout",
+			"comment",
+			"Comment",
+			"comment",
+			"Comment()",
+			"comment",
+			"user-login",
+			"login",
+			"detectEnvironment",
+			"echo",
+			"')\n",
+			"delete",
+			"deleteproject",
+			"destroy",
+			"revenue2",
+			"Add a New",
+			"DB::",
+			"expense_type",
+			"Revenue",
+			"revenue",
+			"types()",
+			"revenue_",
+			"revenue_types()",
+			"RevenueRevenueTypeTableSeeder",
+			"RevenueRevenue_Type",
+			"revenue_type",
+			"revenues()",
+			"project",
+			"stateWment",
+			"revenues()",
+			"Revenues",
+			"Revenue",
+			"revenue",
+			"revenues",
+			"text-danger",
+			"endforeach",
+			"DB::",
+			"info",
+			"!');\n",
+			"fa-comments",
+			"barryvdh",
+			"panel-primary",
+			"panel",
+			"user-dashboard",
+			"create-user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"4,258.91",
+			"4,599",
+			"May 28",
+			"May 29",
+			"$3,495.00",
+			"nav",
+			"nav-position",
+			"navigation-position",
+			"nav",
+			"task",
+			"Task",
+			"task",
+			"Task",
+			"task",
+			"Task()",
+			"task",
+			"expensetype",
+			"Expense",
+			"expense",
+			"revenuetypes()",
+			"",
+			"revenue_types()",
+			"revenue",
+			"expenses()",
+			"Expenses",
+			"Expense",
+			"expense",
+			"expenses",
+			"end",
+			"project",
+			"Revenue_type",
+			"revenue_type",
+			"expense_type",
+			"Permission",
+			"permission",
+			"NumChars",
+			"CapWords",
+			"'",
+			"”,",
+			"\","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env.example",
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 122.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
